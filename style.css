@@ -1,0 +1,125 @@
+#Banner {
+    background-color: rgb(209, 194, 166);
+    background-size: 80%;
+    margin top: 7.5rem;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    z-index: 0;
+}
+
+section.perfil{
+    padding-top: 20rem;
+    margin left -50rem;
+    color: brown;
+    margin-top: -15rem;
+
+}
+
+span.text-secondary{
+    margin-top: ;
+    margin-bottom: 5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.rounded-circle.w-5{
+    position:absolute;
+    z-index: index 1;
+    margin-top: -25rem;
+    margin-left: 25rem;
+    width: -25rem;
+    background-color: #fff;
+    height: auto;
+}
+.col-2.mt-4{
+    color: brown;
+    font-weight: 600;
+    ;
+    
+}
+.col-2 {
+    width: 0rem;
+    text-align: left;
+}
+.div.col-2.mt-4{
+    color:brown
+    width: 1px
+    margin-top: 1.5rem!important;
+ }
+
+ .col-2 {
+   width:auto;
+   padding-right:0rem;
+}
+.h1, h1 {
+    font-size: 1.5rem;
+}
+.col-7.mt-3{
+    width: 100%;
+    height: auto;
+    text-align: left;
+
+
+}
+#capa1 {
+    position:absolute
+    z-index: index 1;
+    margin-top: 10rem;
+
+}
+#capa2{
+    position:absolute;
+    z-index:0;
+}
+
+.navbar.navbar-expand-lg.bg-danger{
+    background-color:rgb(119, 0, 0) !important;
+}
+
+.list-group{
+    --bs-list-group-bg: transparent;
+}
+.list-group-item {
+    border: transparent;
+
+}
+
+i.fa-solid.fa-user.fa-2xl:hover{
+    color:rgb(236, 69, 8);
+}
+i.fa-brands.fa-twitter.fa-2xl:hover{
+    color: aqua
+}
+
+
+i.fa-brands.fa-instagram.fa-2xl:hover{
+    color:mediumvioletred;
+}
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+    color:blue
+}
+section.about{
+    margin-top: 15rem;
+}
+h4.text-secondary {
+    color:crimson
+
+}
+
+.modal-backdrop.fade {
+    opacity: 0;
+}
+
+.modal-backdrop {
+    --bs-backdrop-zindex: 0;
+    --bs-backdrop-bg: #000;
+    --bs-backdrop-opacity: 0.5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: var;
+    width: 100vw;
+    height: 100vh;
+    background-color: var;
+}
+
